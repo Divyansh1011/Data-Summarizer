@@ -1,4 +1,4 @@
-#Data Summarizer
+# Data Summarizer
 
 ## Objective
 Summarization is basically condensing a piece of text to a shorter version.With the aim to retain key information elements and contextual meaning.Automatic text Summarization -> Producing a concise and fluent summary without any human help while preserving the meaning of the original text.
@@ -8,10 +8,10 @@ Summarization is basically condensing a piece of text to a shorter version.With 
 *Identifies the important sections of the text  
 *Crops out the text and stich the portions of the content with relevance of the summary score ans generates a summary 
 
-###Data Pipline
+### Data Pipline
 ![Untitled](https://user-images.githubusercontent.com/54850155/176252322-df443786-7795-4853-8f90-dd3f5509431e.png)
 
-##Installation
+## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to download the neccessary packages 
 
@@ -29,7 +29,7 @@ Second Step: Install Important Packages from the requirement file
 pip3 install -r requirements.txt
 ```
 
-##Usage 
+## Usage 
 
 There are two ways to use the summarizer:
 
